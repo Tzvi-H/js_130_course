@@ -1,1 +1,1 @@
-**Launch School Javascript 130 course**
+**Solutions to Launch School's JS130 course**
